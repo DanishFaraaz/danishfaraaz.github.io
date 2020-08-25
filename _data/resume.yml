@@ -17,16 +17,16 @@ basics:
 
   location:
     address: ""
-    postalCode: "85281
+    postalCode: "85281"
    # region: "North Nazimabad"
-    city: "Tempe
-    countryCode: "AZ
+    city: "Tempe"
+    countryCode: "AZ"
   profiles:
     - network: "Github"
       username: "Danish Faraaz Syed"
       url: "https://github.com/DanishFaraaz"
     - network: "LinkedIn"
-      username: "Danish Faraaz Syed
+      username: "Danish Faraaz Syed"
       url: "https://www.linkedin.com/in/danish-faraaz-syed-464a4a161/"
 # work:
  # - company: "Circadence"
