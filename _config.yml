@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   HypertextAssassin0273.github.io
+url:                   danishfaraaz.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,7 +19,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Shahzaib Khan
+title:                 Danish Faraaz Syed
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -40,8 +40,8 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <Shahzaib> <Ahmed>
-  email:               <shazaibahmed0000@gmail.com>
+  name:                <Danish> <Faraaz> <Syed>
+  email:               <danishfaraaz683@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -324,9 +324,9 @@ remote_theme: hydecorp/hydejack@v9.0.4
 
 # Used on index and about sites
 social:
-  name:                <Shahzaib> <Ahmed>
+  name:                <Danish> <Faraaz> <Syed>
   links:
-    - https://github.com/<HypertextAssassin0273>
+    - https://github.com/<DanishFaraaz>
 
 
 # Jekyll Compose Defaults
