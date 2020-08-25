@@ -16,11 +16,11 @@ basics:
     [Download my Resume here](/assets/Resume.pdf)
 
   location:
-    address: ""
-    postalCode: "85281"
+    address: "Tempe, Arizona, 85281"
+   # postalCode: "85281"
    # region: "North Nazimabad"
-    city: "Tempe"
-    countryCode: "Arizona, USA"
+   # city: "Tempe"
+   # countryCode: ""
   profiles:
     - network: "Github"
       username: "Danish Faraaz Syed"
