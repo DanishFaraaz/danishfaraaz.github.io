@@ -1,8 +1,8 @@
 ---
 layout: post
 title: YCombinator Startup School
-# description: >
- # Graduated YCombinator's Startup School
+ description: >
+  Graduated YCombinator's Startup School
 image: /assets/img/blog/StartupSchool.png
 accent_color: '#4fb1ba'
 accent_image:
