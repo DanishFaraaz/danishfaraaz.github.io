@@ -1,6 +1,6 @@
 ---
-layout: post
-title: [Arduino Programming for Beginners](https://www.udemy.com/certificate/UC-M98W6J0Y/)
+layout: post(https://www.udemy.com/certificate/UC-M98W6J0Y/)
+title: Arduino Programming for Beginners
 # description: >
  # Graduated YCombinator's Startup School
 image: /assets/img/blog/udemy.png
