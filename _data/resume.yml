@@ -20,7 +20,7 @@ basics:
     postalCode: "85281"
    # region: "North Nazimabad"
     city: "Tempe"
-    countryCode: "AZ"
+    countryCode: "Arizona, USA"
   profiles:
     - network: "Github"
       username: "Danish Faraaz Syed"
