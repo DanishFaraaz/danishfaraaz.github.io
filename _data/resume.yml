@@ -51,42 +51,46 @@ education:
     startDate: "08-2015"
     endDate: "05-2019"
 awards:
-  - title: "Startup School"
-    date: "2018-09-01"
-    awarder: "YCombinator"
-    summary: "Completed YCombinator's Startup School program on how to build a successful startup."
-# publications:
- # - name: "How to Build In-Plants, a Mesh-Connected Soil Monitoring System"
-   # publisher: "Particle"
-   # releaseDate: "2019-05-06"
-   # website: "https://blog.particle.io/2019/05/06/learn-how-to-build-in-plants-a-mesh-connected-soil-monitoring-system/"
-   # summary: "Utilize the Internet of Things to watch over your house plants."
+  - title: "New American Univeristy Scholarship"
+    date: "2019-06"
+    awarder: "Arizona State University"
+    summary: "A scholarship for my first year at ASU that was awarded to me based on my test scores"
+  - title: "Best Outgoing Student Award"
+    date: "2019-03"
+    awarder: "St.Joseph's Institute of Technology"
+    summary: "Awarded for graduating with the highest GPA in the department of Mechanical Engineering, 2015-2019 batch"
+ publications:
+  - name: "ROS Based Autonomous Robot with OpenCV"
+    publisher: "IJEAT"
+    releaseDate: "2019-10"
+    website: "http://www.ijeat.org/wp-content/uploads/papers/v9i1S/A10501091S19.pdf"
+    summary: "Capstone year project during my Bachelors"
 skills:
-  - name: "Web Development"
-    level: "Amateur"
+  - name: "Robotics"
+    level: "Professional"
     keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
+      - "Computer Vision"
+      - "Visual Control"
+      - "Drones"
 languages:
-  - language: "C"
-    fluency: "full-professional-proficiency"
   - language: "C++"
-    fluency: "professional working proficiency"
-  - language: "Javascript"
-    fluency: "elementary proficiency"  
+    fluency: "full-professional-proficiency"
+  - language: "Python"
+    fluency: "full-professional-proficiency"
+  - language: "Matlab"
+    fluency: "full-professional-proficiency"  
   # - language: "Assembly"
    # fluency: "limited-working-proficiency"
-interests:
-  - name: "Cyber-Security"
-    keywords:
-      - "Physical Security"
-      - "Close Access Technology"
-  - name: "Internet of Things"
-    keywords:
-      - "Wireless Embeded Technology"
-      - "4G-LTE"
-      - "5G"
+#interests:
+#  - name: "Cyber-Security"
+ #   keywords:
+ #     - "Physical Security"
+  #    - "Close Access Technology"
+  #- name: "Internet of Things"
+  #  keywords:
+   #   - "Wireless Embeded Technology"
+    #  - "4G-LTE"
+     # - "5G"
 # references:
 #   - name: "Erlich Bachman"
 #     reference: >
