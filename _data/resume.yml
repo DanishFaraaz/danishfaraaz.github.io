@@ -59,7 +59,7 @@ awards:
     date: "2019-03"
     awarder: "St.Joseph's Institute of Technology"
     summary: "Awarded for graduating with the highest GPA in the department of Mechanical Engineering, 2015-2019 batch"
- publications:
+publications:
   - name: "ROS Based Autonomous Robot with OpenCV"
     publisher: "IJEAT"
     releaseDate: "2019-10"
