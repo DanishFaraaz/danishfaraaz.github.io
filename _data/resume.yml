@@ -52,17 +52,17 @@ education:
     endDate: "05-2019"
 awards:
   - title: "New American Univeristy Scholarship"
-    date: "2019-06"
+    date: "06-2019"
     awarder: "Arizona State University"
     summary: "A scholarship for my first year at ASU that was awarded to me based on my test scores"
   - title: "Best Outgoing Student Award"
-    date: "2019-03"
+    date: "03-2019"
     awarder: "St.Joseph's Institute of Technology"
     summary: "Awarded for graduating with the highest GPA in the department of Mechanical Engineering, 2015-2019 batch"
 publications:
   - name: "ROS Based Autonomous Robot with OpenCV"
     publisher: "IJEAT"
-    releaseDate: "2019-10"
+    releaseDate: "10-2019"
     website: "http://www.ijeat.org/wp-content/uploads/papers/v9i1S/A10501091S19.pdf"
     summary: "Capstone year project during my Bachelors"
 skills:
