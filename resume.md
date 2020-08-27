@@ -3,7 +3,7 @@ layout: resume
 title: Résumé
 hide_description: true
 menu: true
-order: 2
+order: 1
 left_column:
  - work
  - volunteer
