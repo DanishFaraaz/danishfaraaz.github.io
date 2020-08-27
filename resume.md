@@ -9,7 +9,7 @@ left_column:
 #  - volunteer
  - education
  - awards
-# - publications
+ - publications
 #  - references
 right_column:
  - languages
