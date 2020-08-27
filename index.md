@@ -2,13 +2,13 @@
 cover: true
 image: /assets/img/hydejack-8.png
 title: "Portfolio"
-hide_description: false
+hide_description: true
 description: "I can see that you've walked thousands of miles just to reach this website, but that’s just my homepage. Have fun…"
 ---
 
-## Hi, I am Shahzaib!!! 🎉
+## Hi, I am Danish!!! 🎉
 
-I created this personal website to keep track of my projects, talk about my experience as an Engineer, and give guidance to anyone striving for some knowledge within my expertise. While, just trying to tame the ocean of endless knowledge & to stand out in the crowd one day (Inshaallah).
+This is my personal website that contains resume, certifications and a few other things. Feel free to reach out to me if you want to talk about anything!
 
 
 
