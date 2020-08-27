@@ -6,7 +6,7 @@ menu: true
 order: 2
 left_column:
  - work
-#  - volunteer
+ - volunteer
  - education
  - awards
  - publications
