@@ -28,14 +28,14 @@ basics:
     - network: "LinkedIn"
       username: "Danish Faraaz Syed"
       url: "https://www.linkedin.com/in/danish-faraaz-syed-464a4a161/"
-# work:
- # - company: "Circadence"
-   # position: "Systems Architecture Engineer"
-   # website: "https://www.circadence.com/"
-   # startDate: "2018-09-02"
-   # endDate: ""
-   # summary: >
-     # Working on the Research and Development team at Circadence to provide state of the art technologies for cyber-security penetration testing.
+work:
+  - company: "Robotics and Intelligent Systems (RISE) Laborartory, ASU"
+    position: "Graduate Research Assistant"
+    website: "https://home.riselab.info/"
+    startDate: "2019-09-01"
+    endDate: ""
+    summary: >
+      Working on the applications of Computer Vision for detection and tracking of trash objects on lakes
    # highlights:
      # - "Responsible for architecting, implementing and testing multiple software and firmware solutions for custom hardware."
      # - "Utilized Software Defined Radio to spawn a custom 4GLTE Base station. Created an operation GUI for users to forward traffic, track logs and maintain Command and Control channels"
