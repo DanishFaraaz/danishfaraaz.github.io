@@ -21,6 +21,6 @@ This is my personal website that contains resume, certifications and a few other
 {:.related-posts.faded}
 
 [projects]: projects/
-[blog]: blog/
+# [blog]: blog/
 [resume]: resume/
 [certifications]: certifications/
