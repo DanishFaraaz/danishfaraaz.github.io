@@ -15,12 +15,11 @@ This is my personal website that contains resume, certifications and a few other
 ## Feel Free to Explore
 
 * [Projects]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
-* [Blog]{:.heading.flip-title} --- Just a glimpse into my engineering career.
 * [Resume]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
 * [Certifications]{:.heading.flip-title} --- A few achievements, but rare ones.
 {:.related-posts.faded}
 
 [projects]: projects/
-# [blog]: blog/
+[blog]: blog/
 [resume]: resume/
 [certifications]: certifications/
