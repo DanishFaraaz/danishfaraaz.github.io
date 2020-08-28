@@ -1,6 +1,6 @@
 ---
 # This file only exists to add the 'Blog' entry to the sidebar.
 title: Blog
-menu: true
+menu: false
 order: 4
 ---
