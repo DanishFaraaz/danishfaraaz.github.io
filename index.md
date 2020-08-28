@@ -14,8 +14,8 @@ This is my personal website that contains resume, certifications and a few other
 
 ## Feel Free to Explore
 
-* [Projects]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
 * [Resume]{:.heading.flip-title} --- Summarized overview for my amazing experiences.
+* [Projects]{:.heading.flip-title} ---  Overview of my assorted end product ideas.
 * [Certifications]{:.heading.flip-title} --- A few achievements, but rare ones.
 {:.related-posts.faded}
 
