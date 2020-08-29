@@ -5,7 +5,7 @@ date: 01 Dec 2019
 image:  
   path: /assets/img/projects/toolbox.png
 # screenshot: /assets/img/projects/subzero.jpg
-
+caption: Development of a robotics toolbox
 description: >
      Project completed for MAE 574 - Modelling and Control of Robots for my Fall 2019 term at ASU. Had functions found in Robotics toolbox of Peter Coorkes and also included workspace plotting, differential kinematics and so on. Each team member worked on a different aspect of the project and it was finally put together using Matlab's App Designer.
 accent_color: '#4fb1ba'
