@@ -1,22 +1,13 @@
 ---
 layout: project
-title: 'SUBZero'
-date: 12 Feb 2019
+title: 'Robotics toolbox in Matlab'
+date: 01 Dec 2019
 image:  
-  path: /assets/img/projects/subzero.jpg
-screenshot: /assets/img/projects/subzero.jpg
-links:
-  - title: Github
-    url: https://github.com/Halcy0nic/SUBZero
-  - title: Hackster
-    url: https://www.hackster.io/135000/subzero-a-simple-network-attached-storage-device-3f47be
-  - title: YouTube
-    url: https://www.youtube.com/watch?v=mBsZ2YPawnM
-  - title: Thingiverse
-    url: https://www.thingiverse.com/thing:3389059
-caption: An easy to use Raspberry Pi Zero USB file-level computer data storage server.
+  path: /assets/img/projects/toolbox.png
+# screenshot: /assets/img/projects/subzero.jpg
+
 description: >
-     SUBZero (Secure USB Backup Zero), a simple DIY wireless USB NAS (Network Attached Storage) that enables you to securely upload files on the go using a $10 Raspberry Pi Zero W! NAS is a low cost, convenient way to backup files, photos, and data for future use. The SUBZero was not intended to replace traditional USBs but offers features that you wouldn't typically find on a COTS USB.
+     Project completed for MAE 574 - Modelling and Control of Robots for my Fall 2019 term at ASU. Had functions found in Robotics toolbox of Peter Coorkes and also included workspace plotting, differential kinematics and so on. Each team member worked on a different aspect of the project and it was finally put together using Matlab's App Designer.
 accent_color: '#4fb1ba'
 accent_image:
   background: 'linear-gradient(to bottom,#193747 0%,#233e4c 30%,#3c929e 50%,#d5d5d4 70%,#cdccc8 100%)'
