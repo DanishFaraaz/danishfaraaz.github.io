@@ -6,7 +6,7 @@ image:
   path: /assets/img/projects/matlabpython.jpeg
 # screenshot: /assets/img/projects/alexa-eye.gif
 links:
-  - title: Instructions
+  - title: Projects link
     url: https://skill-lync.com/profiles/Danish-Faraaz-814
 caption: Sound responsive Amazon Alexa Eye
 description: >
