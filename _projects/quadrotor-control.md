@@ -8,7 +8,7 @@ screenshot: /assets/img/projects/quadrotor.gif
 links:
   - title: Github
     url: https://github.com/DanishFaraaz/Control-Stability-Planar-Quadrotor
-caption: Matlab simulation of over control
+caption: Matlab simulation of hover control
 description: >
     Completed for the final project submission of MAE 506 - Advanced System Dynamics and Control for my Fall 2019 term at ASU. Stabilized a quadrotor model with different controllers namely - LQR, closed-loop feedback, observer-based feedback and PID. Non-linear dynamic equations were converted to state-space form and linearized about hover conditions.
 accent_color: '#4fb1ba'
