@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Eye-Lexa'
+title: 'Matlab & Python projects'
 date: 30 Apr 2018
 image:  
   path: /assets/img/projects/matlabpython.jpeg
@@ -8,7 +8,7 @@ image:
 links:
   - title: Projects link
     url: https://skill-lync.com/profiles/Danish-Faraaz-814
-caption: Sound responsive Amazon Alexa Eye
+caption: Small scale codes that were quite helpful
 description: >
     A bunch of simple projects that I worked on when I was first starting to learn Matlab and Python.<br>
 accent_color: '#4fb1ba'
